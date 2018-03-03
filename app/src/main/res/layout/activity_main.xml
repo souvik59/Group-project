@@ -41,6 +41,7 @@
         android:layout_alignStart="@+id/editText"
         android:layout_alignTop="@+id/editText"
         android:layout_marginTop="89dp"
+        android:drawableLeft="@drawable/ic_action_name2"
         android:ems="10"
         android:inputType="textPassword" />
 </RelativeLayout>
